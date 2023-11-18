@@ -1,4 +1,5 @@
 # Samsonenko Dmitry
+![profile_photo](./assets/img/photo_cv.jpg)
 
 ## Contacts
 
