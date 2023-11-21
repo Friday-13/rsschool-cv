@@ -1,2 +1,3 @@
 # rsschool-cv
-rsschool-cv task (stage 1)
+- [Markdown CV](https://Friday-13.github.io/rsschool-cv/cv)
+- [html CV](https://Friday-13.github.io/rsschool-cv/)
